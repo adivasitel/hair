@@ -2041,7 +2041,7 @@ a {
 .cid-ugwCYYwezr {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #edefeb;
+  background-color: #232323;
 }
 .cid-ugwCYYwezr .item-wrapper {
   background: #ffffff;
@@ -2060,6 +2060,10 @@ a {
     padding: 1.5rem;
     margin-bottom: 1rem;
   }
+}
+.cid-ugwCYYwezr .mbr-section-maintitle {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-ugwuVhKsfS {
   z-index: 1000;
