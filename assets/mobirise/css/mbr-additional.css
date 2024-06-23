@@ -1339,7 +1339,7 @@ a {
 .cid-ugwx1b955q {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #a6a99c;
+  background-color: #757b62;
 }
 .cid-ugwx1b955q .item-subtitle {
   line-height: 1.2;
@@ -4871,7 +4871,7 @@ a {
 .cid-ugwFvlzXKa {
   padding-top: 10rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-ugwFvlzXKa .row {
   flex-direction: row-reverse;
@@ -4890,11 +4890,12 @@ a {
 }
 .cid-ugwFvlzXKa .mbr-side-description {
   text-align: center;
+  color: #ffffff;
 }
 .cid-ugwFMfcG3J {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #90a184;
 }
 .cid-ugwFMfcG3J .mbr-overlay {
   background-color: #ffffff;
@@ -4914,4 +4915,7 @@ a {
 }
 .cid-ugwFMfcG3J .content-head {
   max-width: 800px;
+}
+.cid-ugwFMfcG3J .mbr-section-title {
+  color: #ffffff;
 }
